@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Price Plan Project 👋</h1>+
+<h1 align="center">Welcome to Price Plan Project 👋</h1>
 
 # Price Plan
 
