@@ -1,0 +1,102 @@
+body{
+    background-color: #f7f7fe;
+}
+
+.main{
+    text-align: center;
+    width: 100%;
+    font-family: 'Cabin', sans-serif;
+}
+
+.title1{ 
+    color: #727498;
+    font-size: 22px; 
+}
+
+.el1{
+    width: 35px;
+    height: 19px;
+    margin: auto;
+    border-radius: 20px;
+    background: linear-gradient(320deg, #7a7ef3, #b3b5f0);
+    text-align: right;
+}
+
+.d1{    
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 100%;
+    display: inline-block;
+    margin: 2px 2px 0px 0px;
+}
+
+.price1{
+    width: 200px;
+    
+    background: white;
+    margin: auto;
+    padding: 18px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 24px 0px #dfe1f7;
+    display: inline-block;
+    
+    color: #6d6e84;
+}
+
+.price2{
+    width: 200px;
+    background: linear-gradient(318deg, #5e62ca, #9fa2ea);
+    margin: auto;
+    padding: 18px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 24px 0px #dfe1f7;
+    display: inline-block;
+    transform: scale(1.1);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.pin1{
+    font-size: 24px;
+     font-family: 'Kanit';  
+        color: #494b60;
+}
+
+.pin2{
+    font-size: 24px;
+     font-family: 'Kanit';  
+        color: #ffffff;
+}
+
+hr{
+    border: none;
+    border-top: 1px solid #e7e7e7;
+}
+
+.pintext{
+    font-size: 11px ;
+}
+
+.btn{
+    width: 100%;
+    background: linear-gradient(305deg, #5a5ecd, #9fa4eb);
+    border: none;
+    padding: 7px;
+    font-family: 'Cabin';
+    font-size: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn2{
+    width: 100%;
+    background: white;
+    border: none;
+    padding: 7px;
+    font-family: 'Cabin';
+    font-size: 9px;
+    color: #5a5ecd;
+    border-radius: 5px;
+}
